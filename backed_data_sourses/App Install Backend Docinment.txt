@@ -1,0 +1,7 @@
+npm init -y
+
+Add in package.json file.
+"type": "module",
+
+
+npm install mongodb express cors dotenv mongoose
