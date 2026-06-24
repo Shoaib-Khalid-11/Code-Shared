@@ -1,0 +1,8 @@
+https://dev.to/favour_omotosho_9c40b73ac/-how-i-built-a-full-stack-auth-system-with-jwt-email-verification-admin-panel-mern--f70#email-verification-system
+
+
+
+DeepSeek AI
+
+Name => Generic MERN TypeScript requests
+link => https://chat.deepseek.com/a/chat/s/6ee9cb73-8745-4cbc-aedf-4d9059b9dd04

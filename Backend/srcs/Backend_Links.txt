@@ -1,1 +1,0 @@
-https://dev.to/favour_omotosho_9c40b73ac/-how-i-built-a-full-stack-auth-system-with-jwt-email-verification-admin-panel-mern--f70#email-verification-system
